@@ -17,4 +17,4 @@ CarbonMC is still currently in development and does *not* have a set release dat
 ### YouTube: https://www.youtube.com/@OfficialCarbonMC/
 
 
-![.](cdn.plasma.services/CarbonMC/panorama.png)
+![.](https://cdn.plasma.services/CarbonMC/panorama.png)
